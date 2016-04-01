@@ -16,7 +16,7 @@ class ShareMouse(Daemon):
              subprocess.call('killall ShareMouse', shell=True)
 
 if __name__ == "__main__":
-        daemon = ShareMouse('/tmp/daemon-example.pid')
+        daemon = ShareMouse('/tmp/sharemouse-process.pid')
         if len(sys.argv) == 2:
                 if 'start' == sys.argv[1]:
                         daemon.start()
