@@ -1,8 +1,7 @@
 # sharemouse
-If you enjoy using ShareMouse to share your mouse and keyboard and you really hate when it switched to the 
-demo mode and you fell like you are not in a favor of buying it, 
+If you enjoy using ShareMouse to share your mouse and keyboard and really hate when it switch to demo mode and you feel like you are not in a favor of buying it, 
 then this application will help you to restart the ShareMouse application automagically without clicking around. 
-Using this application is 100% legal, as they ask to "restart the program for another evaluation" without specifying programmatically  or not :)
+Using this application is 100% legal, as they ask to "restart the program for another evaluation" without specifying programmatically or not :)
 
 <h4>Works only on Mac OS</h4> 
 
