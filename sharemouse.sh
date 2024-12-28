@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python /Applications/ShareMouse/sharemouse.py start
+python3 /Applications/ShareMouse/sharemouse.py start
